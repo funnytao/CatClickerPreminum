@@ -1,0 +1,22 @@
+body {
+  position: relative;
+}
+
+div.cat {
+  width: 200px;
+  height: 140px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  height: 100px;
+}
+
+img, span {
+  text-align: center;
+  position: relative;
+  display: block;
+}
